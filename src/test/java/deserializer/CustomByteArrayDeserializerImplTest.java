@@ -70,5 +70,4 @@ class CustomByteArrayDeserializerImplTest {
     void tearDown() {
         user = null;
     }
-
 }
